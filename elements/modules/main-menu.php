@@ -3,31 +3,25 @@
   <div class="container">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header page-scroll">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-main-menu">
         <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
       </button>
-      <a class="navbar-brand page-scroll" href="#page-top">
+      <a class="navbar-brand" href="index.php">
         Drupalcamp Lannion
       </a>
     </div>
     
     <!-- Collect the nav links, forms, and other content for toggling -->
-    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+    <div class="collapse navbar-collapse" id="navbar-collapse-main-menu">
       <ul class="nav navbar-nav navbar-right">
-        <li class="hidden">
-          <a href="#page-top"></a>
+        <li>
+          <a class="" href="partners.php">Espace partenaire</a>
         </li>
         <li>
-          <a class="page-scroll" href="#about">A propos</a>
+          <a class="" href="brezhonneg.php">Brezhonneg</a>
         </li>
         <li>
-          <a class="page-scroll" href="#partners">Espace partenaire</a>
-        </li>
-        <li>
-          <a class="page-scroll" href="#Brezhonneg">Brezhonneg</a>
-        </li>
-        <li>
-          <a class="page-scroll" href="#contact">Contact</a>
+          <a class="" href="contact.php">Contact</a>
         </li>
       </ul>
     </div>

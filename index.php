@@ -152,16 +152,6 @@
     <hr>
   </div>
 </section>
-
-<section id="partners">
-  <div class="container">
-    <div class="row">
-      <div class="">
-        
-      </div>
-    </div>
-  </div>
-</section>
 <?php include 'elements/modules/newsletter.php' ?>
 <?php include 'elements/modules/partners.php' ?>
 <?php include 'elements/modules/footer.php' ?>
