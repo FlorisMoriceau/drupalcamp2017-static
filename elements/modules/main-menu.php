@@ -7,7 +7,7 @@
         <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
       </button>
       <a class="navbar-brand" href="index.php">
-        Drupalcamp Lannion
+        <img src="img/logos/logo-dcl-topbar.png">
       </a>
     </div>
     

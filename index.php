@@ -16,19 +16,23 @@
     <div class="row ">
       <div class="col-md-12">
         <div class="lead text-center">
-          Le drupalcamp est proposé par l'association Drupal France et
-          francophonie.
-          Cette année encore, il se déroulera sur 3 jours, du 27 au 29 octobre
-          2017, à Lannion (22).<br>
+          Le drupalcamp est proposé par l'association
+          <a href="https://www.drupal.fr">
+            Drupal France et francophonie</a>.
+          Cette année encore, il se déroulera sur 3 jours, du <strong>27 au 29
+            octobre
+            2017, à Lannion (22)</strong>.<br>
           <br>
           Nous reviendrons régulièrement mettre à jour ce site présentant
           l'évènement.
         </div>
       </div>
     </div>
+    
     <hr>
+    
     <div class="row">
-      <div class="col-lg-6">
+      <div class="col-lg-8">
         <h3>Où se déroule le drupalcamp ?</h3>
         <p class="lead">
           Nous passerons ces trois jours de rencontre à l'Espace Ste Anne, à
@@ -38,6 +42,13 @@
         <p>
           Pour se rendre à Lannion, nous vous conseillons de prendre le train.
         </p>
+      </div>
+      <div class="col-lg-3 col-lg-offset-1">
+        <img src="img/visuels/LannionByNight_square.jpg"
+             class="img-responsive img-circle"
+             alt="Lannion by night">
+      </div>
+      <div class="col-lg-6">
         <dl>
           <dt>
             Depuis <strong>Paris</strong> :
@@ -48,7 +59,8 @@
             <strong>Durée :</strong> 3h20
           </dl>
         </dl>
-        
+      </div>
+      <div class="col-lg-6">
         <dl>
           <dt>
             Depuis <strong>le Sud de la France</strong> :
@@ -66,12 +78,36 @@
             </ul>
           </dl>
         </dl>
-        
-        <img src="img/visuels/fab-lentz-235339.jpg"
-             class="img-responsive" alt="Envol des macareux">
-        
-        <hr>
-        
+      </div>
+    </div>
+    
+    <hr>
+    <div class="row">
+      <div class="col-lg-3">
+        <img src="img/visuels/LannionHouses_square.jpg"
+             class="img-responsive img-circle"
+             alt="Centre ville de Lannion">
+      </div>
+      <div class="col-lg-8 col-lg-offset-1">
+        <h3>Quand se déroule le drupalcamp ?</h3>
+        <p class="lead">
+          Le drupalcamp se déroule du <strong>27 au 29 octobre</strong>, du
+          vendredi au dimanche,
+          pendant les vacances de la Toussaint.
+        </p>
+        <p>
+          Comme il n'est pas toujours facile de se décider à partir en vacances,
+          nous vous donnons un coup de pouce, une fois arrivé au (presque) bout
+          du monde, il serait dommage de ne pas profiter des richesses
+          régionales :)
+        </p>
+      </div>
+    </div>
+    
+    <hr>
+    
+    <div class="row">
+      <div class="col-md-12">
         <h3>
           Quoi faire avant/après le drupalcamp ?
         </h3>
@@ -79,6 +115,8 @@
           Il y a plus d'une façon de profiter de la région avant ou après le
           drupalcamp.
         </p>
+      </div>
+      <div class="col-md-8">
         <ul>
           <li>la Base Sport Nature de Lannion propose bien des activités sur
             Lannion et autour
@@ -105,24 +143,17 @@
           <li>...</li>
         </ul>
       </div>
-      <div class="col-lg-6">
-        <h3>Quand se déroule le drupalcamp ?</h3>
-        <p class="lead">
-          Le drupalcamp se déroule du <strong>27 au 29 octobre</strong>, du
-          vendredi au dimanche,
-          pendant les vacances de la Toussaint.
-        </p>
-        <img src="img/visuels/ray-hennessy-230202mini.jpg"
-             class="img-responsive" alt="Envol des macareux">
-        <p>
-          Comme il n'est pas toujours facile de se décider à partir en vacances,
-          nous vous donnons un coup de pouce, une fois arrivé au (presque) bout
-          du monde, il serait dommage de ne pas profiter des richesses
-          régionales :)
-        </p>
-        
-        <hr>
-        
+      <div class="col-md-3 col-md-offset-1">
+        <img src="img/visuels/SeaShore_square.jpg"
+             class="img-responsive img-circle"
+             alt="Promenandes">
+      </div>
+    </div>
+    
+    <hr>
+    
+    <div class="row">
+      <div class="col-md-6">
         <h3>Comment s'inscrire au drupalcamp ?</h3>
         <p class="lead">
           Les réservations ne sont pas encore ouvertes.
@@ -132,25 +163,33 @@
           accès à l'événement avec vos repas prévus ainsi qu'un sac d'accueil
           gorgé de goodies !
         </p>
-        <p>&nbsp;</p>
-        <hr>
-        
+      </div>
+      
+      <div class="col-md-6">
         <h3>Et pourquoi un macareux moine ?</h3>
         <p class="lead">
-          Si vous suivez le compte twitter @drupalcampfr, vous avez sans doute
-          rencontré un petit macareux.
+          Si vous suivez le compte twitter
+          <a href="https://twitter.com/drupalcampfr">@drupalcampfr</a> , vous
+          avez sans doute rencontré un petit macareux.
         </p>
-        <img class="img-responsive" src="img/visuels/labasmini.png">
         <p>
-          Un peu plus d'infos sur le pourquoi du comment, merci Edouard pour
-          le lien.
+          <a href="http://bretagne-biodiversite.org/juin/le-macareux-moine.html">
+            Un peu plus d'infos
+          </a>
+          sur le pourquoi du comment.<br>
+          <em>(Merci Edouard pour le lien)</em><br>
           Elle est pas mignonne notre mascotte ?
         </p>
       </div>
-    
+      
+      <div class="col-md-8 col-md-offset-2">
+        <br>
+        <img class="img-responsive" style="width: 100%"
+             src="img/visuels/labasmini.png">
+      </div>
     </div>
-    <hr>
   </div>
+
 </section>
 <?php include 'elements/modules/newsletter.php' ?>
 <?php include 'elements/modules/partners.php' ?>
