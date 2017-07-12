@@ -35,21 +35,21 @@
       <div class="col-md-6">
         Vous souhaitez nous donner les moyen de réaliser un très bel évènement,
         tout en profitant d'une belle visibilité, telle une abeille butineuse,
-        vous contribuerez à la réussite collective du projet : c'est l'offre
-        gwenan.
+        vous contribuerez à la réussite collective du projet : <br>
+        <strong>c'est l'offre Gwenan</strong>.
       </div>
       <div class="col-md-6">
         Vous n'avez pas autant d'énergie, ni de moyens, mais vous souhaitez
         toutefois nous aider un petit peu pour rendre cet évènement le plus beau
-        possible tel un papillon passant au dessus d'un beau jardin : c'est
-        l'offre melwenn.
+        possible tel un papillon passant au dessus d'un beau jardin : <br>
+        <strong>c'est l'offre Melwenn</strong>.
 
       </div>
 
     </div>
-
+    <hr>
     <div class="row">
-      <div class="col-sm-12 col-md-8 col-md-offset-2">
+      <div class="col-sm-12 col-md-12">
         <table id="sponsor-grid" class="table table-bordered">
           <thead>
           <tr>
@@ -270,7 +270,7 @@
             <td class="text-center">1</td>
             <td class="text-center">1</td>
           </tr>
-          <tr>
+          <tr class="prices">
             <th scope="row">
               Tarif
             </th>
