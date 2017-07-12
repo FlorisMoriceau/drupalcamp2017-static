@@ -255,6 +255,7 @@ header {
   color:                   white;
   min-height:              100vh;
 }
+
 header .intro-text {
   padding-top:    100px;
   padding-bottom: 50px;
@@ -275,11 +276,28 @@ header .intro-text .intro-heading {
   line-height:    50px;
   margin-bottom:  25px;
 }
+
+header.partnership {
+  background-image:        url('../img/visuels/LannionHouses_banner.jpg');
+  min-height:              20vh;
+}
+header.brezhonneg {
+  background-image:        url('../img/visuels/SeaWave_banner.jpg');
+  min-height:              20vh;
+}
+
 @media (min-width: 768px) {
   header .intro-text {
     background-color: rgba(0, 0, 0, .5);
     margin-top:       300px;
     margin-bottom:    200px;
+    padding:          10px 0;
+  }
+  header.partnership .intro-text,
+  header.brezhonneg .intro-text {
+    background-color: rgba(0, 0, 0, .5);
+    margin-top:       150px;
+    margin-bottom:    100px;
     padding:          10px 0;
   }
   header .intro-text .intro-lead-in {

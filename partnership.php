@@ -1,3 +1,6 @@
+<?php
+$page = 'partnership';
+?>
 <?php include 'elements/html/html_head.php'; ?>
 
 <?php include 'elements/modules/main-menu.php' ?>
@@ -6,6 +9,7 @@
 <!-- Services Section -->
 <section class="partnership">
   <div class="container">
+    <?php /*
     <div class="row">
       <div class="col-lg-12 text-center">
         <h2 class="section-heading">Devenir partenaire du drupalcamp</h2>
@@ -21,10 +25,12 @@
         </div>
       </div>
     </div>
+
     <hr>
+  */ ?>
     <div class="row">
       <div class="col-lg-12">
-        <h3>Comment ?</h3>
+        <h2>Comment ?</h2>
         <p class="lead">
           Le drupalcamp est un évènement proposé par l'association Drupal France
           et francophonie, par des bénévoles. <br>

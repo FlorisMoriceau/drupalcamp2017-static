@@ -15,7 +15,7 @@
     <div class="collapse navbar-collapse" id="navbar-collapse-main-menu">
       <ul class="nav navbar-nav navbar-right">
         <li>
-          <a class="" href="partners.php">Espace partenaire</a>
+          <a class="" href="partnership.php">Espace partenaire</a>
         </li>
         <li>
           <a class="" href="brezhonneg.php">Brezhonneg</a>

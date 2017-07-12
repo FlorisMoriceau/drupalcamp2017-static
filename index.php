@@ -1,5 +1,8 @@
-<?php include 'elements/html/html_head.php'; ?>
+<?php
+  $page = 'index';
+?>
 
+<?php include 'elements/html/html_head.php'; ?>
 <?php include 'elements/modules/main-menu.php' ?>
 <?php include 'elements/modules/header.php' ?>
 
