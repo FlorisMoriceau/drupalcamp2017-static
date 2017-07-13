@@ -1,5 +1,5 @@
 <?php
-  $page = 'index';
+  $page = 'homepage';
 ?>
 
 <?php include 'elements/html/html_head.php'; ?>
@@ -12,8 +12,9 @@
     <div class="row">
       <div class="col-lg-12 text-center">
         <h2 class="section-heading">&agrave; propos</h2>
-        <h3 class="section-subheading text-muted">Une touche de Bretagne dans un
-          monde de Drupal</h3>
+        <h3 class="section-subheading text-muted">
+          Une touche de Bretagne dans un monde de Drupal
+        </h3>
       </div>
     </div>
     <div class="row ">

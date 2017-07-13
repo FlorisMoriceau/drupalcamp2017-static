@@ -1,5 +1,5 @@
-<?php if ($page == 'index') { ?>
-  <header>
+<?php if ($page == 'homepage') { ?>
+  <header class="homepage">
     <div class="container-fluid row">
       <div class="intro-text">
         <div class="text-center">
@@ -36,6 +36,20 @@ elseif ($page == 'brezhonneg') { ?>
           <div class="lead text-center">
             Aujourd'hui, ce n'est pas encore possible, la langue bretonne n'a pas encore été ajoutée sur l'interface de traduction de Drupal.<br>
             <strong>Mais grâce à vous...</strong>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+<?php }
+elseif ($page == 'contact') { ?>
+  <header class="contact">
+    <div class="container-fluid row">
+      <div class="intro-text">
+        <div class="text-center">
+          <h1 class="section-heading">Contactez nous</h1>
+          <div class="lead text-center">
+            Notre équipe sera ravie de répondre à vos questions
           </div>
         </div>
       </div>
