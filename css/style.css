@@ -325,12 +325,13 @@ header .intro-text .intro-heading {
 }
 
 header.homepage {
-  background-image : url('../img/banner-homepage.jpg');
+  background-image : url('../img/visuels/LannionHouses_banner.jpg');
   min-height       : 100vh;
 }
 
 header.partnership {
-  background-image : url('../img/visuels/LannionHouses_banner.jpg');
+  /*background-image : url('../img/visuels/LannionHouses_banner.jpg');*/
+  background-image : url('../img/banner-homepage.jpg');
   min-height       : 10vh;
 }
 
