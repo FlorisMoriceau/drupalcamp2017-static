@@ -6,7 +6,7 @@
 <?php include 'elements/modules/main-menu.php' ?>
 <?php include 'elements/modules/header.php' ?>
 
-<!-- Services Section -->
+<!-- About Section -->
 <section id="about">
   <div class="container">
     <div class="row">
@@ -177,7 +177,8 @@
           avez sans doute rencontré un petit macareux.
         </p>
         <p>
-          <a href="http://bretagne-biodiversite.org/juin/le-macareux-moine.html">
+          <a
+            href="http://bretagne-biodiversite.org/juin/le-macareux-moine.html">
             Un peu plus d'infos
           </a>
           sur le pourquoi du comment.<br>
@@ -195,6 +196,31 @@
   </div>
 
 </section>
+
+<!-- Program Section -->
+<section>
+  <div class="homepage-program">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading">Programme</h2>
+          <h3 class="section-subheading text-muted">
+            Que va-t-il se passer durant ces 3 jours ?
+          </h3>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-4">
+          <h4>Vendredi</h4>
+          <p>
+            Blah balah blah
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 <?php include 'elements/modules/newsletter.php' ?>
 <?php include 'elements/modules/partners.php' ?>
 <?php include 'elements/modules/footer.php' ?>
