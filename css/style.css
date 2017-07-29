@@ -330,7 +330,6 @@ header.homepage {
 }
 
 header.partnership {
-  /*background-image : url('../img/visuels/LannionHouses_banner.jpg');*/
   background-image : url('../img/banner-homepage.jpg');
   min-height       : 10vh;
 }
